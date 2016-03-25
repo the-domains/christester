@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[ChrisTESTER]]></title>
+        <description><![CDATA[ChrisTESTER]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 25 Mar 2016 19:10:54 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ut magna venenatis, tempus augue sit amet, venenatis turpis. Nunc pellentesque consectetur urna ut ultricies. Maecenas lacinia nisi ac lectus placerat, sit amet tempor neque malesuada. Integer vel tristique augue, tempor mattis nisi. Nullam scelerisque blandit semper. Proin mattis nulla mi, vel dapibus arcu malesuada vitae. Maecenas molestie quis nibh quis mattis. Sed non eros felis. Integer diam lorem, malesuada id nunc vitae, finibus euismod est. Fusce ut enim non augue egestas bibendum eget feugiat lacus.</p>]]></description>
+            <link>undefinedlorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-dui/index.html</link>
+            <guid isPermaLink="false">186427bf-bc52-4228-ab54-c8b85834ead4</guid>
+            <pubDate>Fri, 25 Mar 2016 19:10:26 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
