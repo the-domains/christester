@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ut magna venenatis, tempus augue sit amet, venenatis turpis. Nunc pellentesque consectetur urna ut ultricies. Maecenas lacinia nisi ac lectus placerat, sit amet tempor neque malesuada. Integer vel tristique augue, tempor mattis nisi. Nullam scelerisque blandit semper. Proin mattis nulla mi, vel dapibus arcu malesuada vitae. Maecenas molestie quis nibh quis mattis. Sed non eros felis. Integer diam lorem, malesuada id nunc vitae, finibus euismod est. Fusce ut enim non augue egestas bibendum eget feugiat lacus.'
-datePublished: '2016-03-25T19:46:48.791Z'
-dateModified: '2016-03-25T19:21:19.011Z'
+datePublished: '2016-03-25T19:47:55.544Z'
+dateModified: '2016-03-25T19:47:24.743Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-25-lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-dui.md
