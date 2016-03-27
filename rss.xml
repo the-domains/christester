@@ -4,7 +4,7 @@
         <description><![CDATA[ChrisTESTER]]></description>
         <link>https://thegrid.ai/christester/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 25 Mar 2016 19:49:45 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Mar 2016 18:38:27 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/christester/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/christester/lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-dui/index.html</link>
             <guid isPermaLink="false">186427bf-bc52-4228-ab54-c8b85834ead4</guid>
             <pubDate>Fri, 25 Mar 2016 19:49:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>In the late 1800s, New York's churches began to decorate their sanctuaries with Easter flowers. Parishioners walked from church to church to inspect the floral displays — and so began the custom of the NYC Easter parade. </p>]]></description>
+            <link>https://thegrid.ai/christester/9bee48ea-b129-462c-972c-c753406a324c/index.html</link>
+            <guid isPermaLink="false">9bee48ea-b129-462c-972c-c753406a324c</guid>
+            <pubDate>Sun, 27 Mar 2016 18:38:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
