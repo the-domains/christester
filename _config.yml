@@ -1,7 +1,7 @@
 name: ChrisTESTER
 favicon: null
 layout_spectrum: 0.6772952757310122
-typography_spectrum: 0.7114667275454849
+typography_spectrum: 0.84161
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
+    - '#f2efea'
+    - '#251909'
+    - '#876810'
+    - '#dacf3b'
+    - '#921013'
   brandStrength: 0.7434055530466139
   lightness: 0.570522683672607
   saturation: 0.5154044926166534
